@@ -1,0 +1,13 @@
+nav{
+    background-color: #CCCCCC;
+}
+body{
+    text-align: center;
+    background-color: #fcfcfc;
+}
+#fixed{
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+}
